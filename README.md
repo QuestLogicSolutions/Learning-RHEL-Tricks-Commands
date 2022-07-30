@@ -1,5 +1,5 @@
  Note: Learning-RHEL-Tricks-Commands
-redhat-learning
+ redhat-learning
 RHEL 7 tips and tricks
 
 Set SElinux to enforcing mode, Persistent across reboot.
