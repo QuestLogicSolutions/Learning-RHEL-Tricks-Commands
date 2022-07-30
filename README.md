@@ -74,11 +74,4 @@ setfacl -m o::r /var/tmp/fstab
 setfacl -m u:curly:rw /var/tmp/fstab
 setfacl -m u:larry:--- /var/tmp/fstab (without rd/w , we cannot execute a file in linux)
 switch to root
-# sudo su -
-Type in your user password
-# useradd -u 3388 user2
-# passwd user2
-confirm user account was created
-# cat /etc/passwd
-OR
-# id user2 
+
